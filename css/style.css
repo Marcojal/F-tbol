@@ -1,24 +1,39 @@
+
+
+footer {
+    background-color: var(--color-1);
+    color: var(--color-5);
+    text-align: center;
+    height: 1em;
+}
+
 .champios {
    width: 2em;
+   height: 2em;
 }
 
 .lija {
     width: 2em;
+    height: 2em;
 }
 
 .copa {
     width: 2em;
+    height: 2em;
 }
 
 .superchopa {
     width: 2em;
+    height: 2em;
 }
 
 .mondial {
     width: 2em;
+    height: 2em;
 }
 
-strong {
+.champios.btn {
+    display: flex;
     align-items: center;
 }
 
